@@ -156,6 +156,7 @@
 		15CEA73C1C1B2A8D00F6E282 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = Ctec;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				15CEA7651C1B2A8E00F6E282 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		15CEA7661C1B2A8E00F6E282 /* Build configuration list for PBXNativeTarget "StupidIosProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				15CEA7681C1B2A8E00F6E282 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
